@@ -1,0 +1,23 @@
+#raptor1 {
+    margin: 15px 0;
+    transform: rotate(45deg);
+}
+
+#raptor2 {
+    cursor: pointer ;
+    transition: all ease 1s;
+}
+
+#raptor2:hover {
+    transform: scale(2,2);
+    margin: 50px 0 50px 100px;
+}
+
+#raptor3 {
+    cursor: pointer;
+    transition: all ease 2s;
+}
+
+#raptor3:hover{
+    transform: rotate(180deg);
+}
